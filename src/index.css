@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;500;600&display=swap");
+
+::-webkit-scrollbar {
+  width: 10px;
+  background-color: #484848;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #484848;
+  border-radius: 10px;
+}
